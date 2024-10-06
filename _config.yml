@@ -1,15 +1,15 @@
-# title: Your Site Title
-# description: The description of your site.
-# email: your-email@address.com
+title: Craft Beard's World
+description: A Data Engineer.
+email: lixing.liang@outlook.com
 
-# author: Your name #  Default is your site title.
+author: Craft Beard #  Default is your site title.
 
 # # Your social accounts.
-# social:
-#   github: github_username
-#   twitter: twitter_username
+social:
+  github: CraftBeard
+  twitter: Craft_Beard
 #   facebook: facebook_username
-#   instagram: instagram_username
+  instagram: _craft_beard_
 #   linkedin: linkedin_username
 #   weibo: weibo_username
 
@@ -23,7 +23,7 @@
 # rss: "/feed.xml"
 
 # # The followings are settings for displays of your blog.
-# theme_setting:
+theme_setting:
 #   # The slides count in the slides layout. Default is 4.
 #   slides_count: 5
 #   # The ← back URL on the top of your post page. Default is your site's home page.
@@ -39,9 +39,9 @@
 #       title: "External Link Title"
 #       url: "https://your-external-link.com"
 #   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
-#   code: true # Code highlight.
-#   math: true # Mathjax
-#   mermaid: true # Mermaid
+   code: true # Code highlight.
+   math: true # Mathjax
+   mermaid: true # Mermaid
 #   #  Locales of this theme.
 #   lang:
 #     category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
