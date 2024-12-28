@@ -1,6 +1,6 @@
 # Tool Collections
 ## AI
-- https://monica.im
+- [Monica AI](https://monica.im)
 - https://chat.deepseek.com
 - https://www.doubao.com/chat
 
