@@ -1,17 +1,17 @@
 # Tool Collections
 ## AI
 - [Monica AI](https://monica.im)
-- https://chat.deepseek.com
-- https://www.doubao.com/chat
+- [Deepseek](https://chat.deepseek.com)
+- [Doubao豆包](https://www.doubao.com/chat)
 
 # Website Collections
 ## Comic
-- https://mycomic.com
-- https://www.copymanga.tv
+- [My Comic](https://mycomic.com)
+- [Copy Manga](https://www.copymanga.tv)
 
 ## Cartoon
-- https://www.agedm.org
-- http://www.yinghuadongman.info
+- [Age动漫](https://www.agedm.org)
+- [樱花动漫](http://www.yinghuadongman.info)
 
 # Data Collections
 
