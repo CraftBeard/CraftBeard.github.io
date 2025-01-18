@@ -14,5 +14,6 @@
 - [樱花动漫](http://www.yinghuadongman.info)
 
 # Data Collections
+- [中文互联网语料资料平台](https://corpus.cybersac.cn/#/home)
 
 # Report Collections
