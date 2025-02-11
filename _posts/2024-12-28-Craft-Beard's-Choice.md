@@ -2,6 +2,7 @@
 ## AI
 - [Monica AI](https://monica.im)
 - [Deepseek](https://chat.deepseek.com)
+- [Github Copilot](https://github.com/copilot)
 - [Doubao豆包](https://www.doubao.com/chat)
 
 # Website Collections
