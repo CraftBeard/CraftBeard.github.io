@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.locale | default: 'en' }}">
   {%- include head.html -%}
+  <title>{% if page.title %}{{ page.title }}{% else %}Craft Beard's World{% endif %}</title>
   <body class="body-{{ page.layout }}">
     {{ content }}
   </body>
